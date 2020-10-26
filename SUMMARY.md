@@ -2,6 +2,6 @@
 
 * [Initial page](README.md)
 * [JavaScript](javascript.md)
-* [Vue install](vue-install.md)
-* [Vue](vue.md)
+* [Vue](vue/README.md)
+  * [Vue install](vue/vue-install.md)
 
